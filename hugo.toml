@@ -1,0 +1,43 @@
+baseURL = "https://shauntothemoon.github.io/portfolio/"
+languageCode = "en-US"
+title = "Data Decoded"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "img/profile_haohan.png"
+  author = "Haohan Shilin"
+  description = "Describe your website"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "username"
+  Email         = "shaun.out.the.box@gmail.com"
+  LinkedIn      = "https://www.linkedin.com/in/shi-linhaohan/"
+  RSS           = "/blog/index.xml"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"
