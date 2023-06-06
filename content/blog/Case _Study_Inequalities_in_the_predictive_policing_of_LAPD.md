@@ -4,6 +4,14 @@ date: 2023-06-06T15:00:05+02:00
 draft: false
 ---
 
+## Before you read...
+This is in fact a case study that I conducted during my master program, which puts a huge emphasis on reflecting how extensively used data could cause more - instead of less - systematical violence. It received 9, a very high mark in the Dutch higher education system, and is currently used by my professor as an example for future students.
+
+Though I am now working towards a career in data analysis and strategies, the academic trainings I received always help me be mindful of consequences of what I (or we) could cause with data.
+
+Thank you for reading this.
+
+
 ## Introduction
 
 Operation LASER (Los Angeles’ Strategic Extraction and Restoration Program) aims to 'violent repeat offenders and gang members who commit crimes in the specific target areas with “laser-like precision', according to a peer-reviewed publication written by Uchida and Swatt(2013), by 'extracting offenders surgically, recovery time of the neighborhood is faster'. 
