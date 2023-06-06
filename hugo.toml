@@ -20,7 +20,7 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
+  Github        = "Shauntothemoon"
   Email         = "shaun.out.the.box@gmail.com"
   LinkedIn      = "https://www.linkedin.com/in/shi-linhaohan/"
   RSS           = "/blog/index.xml"

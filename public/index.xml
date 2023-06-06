@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Decoded</title>
+    <link>https://shauntothemoon.github.io/portfolio/</link>
+    <description>Recent content on Data Decoded</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Jun 2023 16:32:15 +0200</lastBuildDate><atom:link href="https://shauntothemoon.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_first_project</title>
+      <link>https://shauntothemoon.github.io/portfolio/projects/my_first_project/</link>
+      <pubDate>Tue, 06 Jun 2023 16:32:15 +0200</pubDate>
+      
+      <guid>https://shauntothemoon.github.io/portfolio/projects/my_first_project/</guid>
+      <description>This is my first portfolio.</description>
+    </item>
+    
+    <item>
+      <title>How Make Time Work</title>
+      <link>https://shauntothemoon.github.io/portfolio/blog/how-make-time-work/</link>
+      <pubDate>Tue, 06 Jun 2023 16:00:49 +0200</pubDate>
+      
+      <guid>https://shauntothemoon.github.io/portfolio/blog/how-make-time-work/</guid>
+      <description>Make Time Is Just Four Steps, Repeated Every Day The first step is choosing a single highlight to prioritize in your day. Next, you’ll employ specific tactics to stay laser-focused on that highlight Throughout the day, you’ll build energy so you can stay in control of your time and attention. Finally, you’ll reflect on the day with a few simple notes. Highlight: Start Each Day by Choosing a Focal Point The first step in Make Time is deciding what you want to make time for.</description>
+    </item>
+    
+    <item>
+      <title>Case Study Inequalities in the Predictive Policing of LAPD</title>
+      <link>https://shauntothemoon.github.io/portfolio/blog/case-_study_inequalities_in_the_predictive_policing_of_lapd/</link>
+      <pubDate>Tue, 06 Jun 2023 15:00:05 +0200</pubDate>
+      
+      <guid>https://shauntothemoon.github.io/portfolio/blog/case-_study_inequalities_in_the_predictive_policing_of_lapd/</guid>
+      <description>Introduction Operation LASER (Los Angeles’ Strategic Extraction and Restoration Program) aims to &amp;lsquo;violent repeat offenders and gang members who commit crimes in the specific target areas with “laser-like precision&amp;rsquo;, according to a peer-reviewed publication written by Uchida and Swatt(2013), by &amp;rsquo;extracting offenders surgically, recovery time of the neighborhood is faster&amp;rsquo;.
+As one of the most famous application of predictive policing in Los Angeles Police Department(LAPD), Operation LASER, however, received intensified and persistent resistance from the community - the claimed beneficiar of it - and was eventually cancelled.</description>
+    </item>
+    
+  </channel>
+</rss>
