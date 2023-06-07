@@ -8,12 +8,14 @@
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://shauntothemoon.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My_first_project</title>
-      <link>https://shauntothemoon.github.io/portfolio/projects/my_first_project/</link>
+      <title>Should your funnel dashboards look like a funnel</title>
+      <link>https://shauntothemoon.github.io/portfolio/projects/should_your_funnel_dashboards_look_like_a_funnel/</link>
       <pubDate>Tue, 06 Jun 2023 16:32:15 +0200</pubDate>
       
-      <guid>https://shauntothemoon.github.io/portfolio/projects/my_first_project/</guid>
-      <description>This is my first portfolio.</description>
+      <guid>https://shauntothemoon.github.io/portfolio/projects/should_your_funnel_dashboards_look_like_a_funnel/</guid>
+      <description>By introducing this project, I would like to discuss an interesting and simple question I encountered while working on funnel optimization:
+Should the funnel dashboards really look like a funnel?
+This project is in fact a relatively tiny dashboard I built and redesigned for the funnel optimizations of a product from our organization. Though it may look tiny, it has been used for the stakeholder&amp;rsquo;s regular reporting as a sole source of truth for funnel traffics - which means it will be used as a data visualization in slides, many, many, many times.</description>
     </item>
     
   </channel>

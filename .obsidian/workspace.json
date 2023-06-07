@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md",
+                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md",
+                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md",
+                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md"
+                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel/index.md"
               }
             }
           }
@@ -148,29 +148,34 @@
   },
   "active": "d4e9ab9107c6a22a",
   "lastOpenFiles": [
-    "Screenshot 2023-06-07 at 22.02.45.png",
+    "public/projects/previous.png",
+    "public/projects/now.png",
+    "public/projects/Screenshot 2023-06-07 at 22.02.45.png",
+    "public/projects/Pasted image 20230607224955.png",
+    "public/projects/should_your_funnel_dashboards_look_like_a_funnel/now.png",
+    "public/projects/should_your_funnel_dashboards_look_like_a_funnel/mid.png",
+    "public/img/previous.png",
+    "content/projects/should_your_funnel_dashboards_look_like_a_funnel/mid.png",
+    "content/projects/should_your_funnel_dashboards_look_like_a_funnel/now.png",
+    "now.png",
+    "static/projects/now.png",
+    "static/projects",
     "content/blog/Case _Study_Inequalities_in_the_predictive_policing_of_LAPD.md",
-    "layouts/_default/_markup/render-link.html",
-    "layouts/_default/_markup",
-    "layouts/_default",
-    "public/js",
-    "static/js/dark_toggle.js",
-    "static/js",
-    "themes/hugo-sustain/assets/css/dark.css",
-    "public/css/dark.css",
-    "layouts/partials/toggle.html",
-    "layouts/partials",
+    "content/projects/should_your_funnel_dashboards_look_like_a_funnel.md",
+    "content/projects/should_your_funnel_dashboards_look_like_a_funnel/index.md",
+    "content/projects/should_your_funnel_dashboards_look_like_a_funnel",
+    "public/projects/should_your_funnel_dashboards_look_like_a_funnel?",
+    "static/projects/should_your_funnel_dashboards_look_like_a_funnel?",
+    "static/posts/should_your_funnel_dashboards_look_like_a_funnel?",
+    "static/posts",
+    "public/projects/should_your_funnel_dashboards_look_like_a_funnel/index.html",
+    "public/projects/should_your_funnel_dashboards_look_like_a_funnel",
+    "public/projects/attachments",
+    "content/projects/attachments",
     "content/_index.md",
     "content/projects/_index.md",
-    "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md",
     "content/blog/how-make-time-work.md",
     "Pasted image 20220821132805.png.md",
-    "public/img/profile_haohan.png",
-    "portfolio/themes/ananke/static/images/gohugo-default-sample-hero-image.jpg",
-    "portfolio/themes/ananke/layouts/partials/svg/tiktok.svg",
-    "portfolio/themes/ananke/layouts/partials/svg/new-window.svg",
-    "portfolio/themes/ananke/images/tn.png",
-    "portfolio/themes/ananke/images/screenshot.png",
     "portfolio/themes/ananke/exampleSite/content/fr/post/chapter-1.md",
     "portfolio/themes/ananke/exampleSite/content/fr/post/_index.md",
     "portfolio/themes/ananke/exampleSite/content/en/post/chapter-6.md",
@@ -181,10 +186,6 @@
     "portfolio/themes/ananke/exampleSite/content/en/post/chapter-1.md",
     "portfolio/themes/ananke/exampleSite/content/en/post/_index.md",
     "portfolio/themes/ananke/exampleSite/content/en/about/index.md",
-    "portfolio/themes/ananke/exampleSite/static/images/notebook.jpg",
-    "portfolio/themes/ananke/exampleSite/static/images/esmeralda.jpg",
-    "portfolio/themes/ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg",
-    "portfolio/themes/ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg",
     "portfolio/themes/ananke/exampleSite/content/fr/contact.md",
     "portfolio/themes/ananke/exampleSite/content/fr/_index.md",
     "portfolio/themes/ananke/exampleSite/content/en/contact.md",
@@ -192,7 +193,6 @@
     "portfolio/themes/ananke/archetypes/default.md",
     "portfolio/themes/ananke/README.md",
     "portfolio/themes/ananke/LICENSE.md",
-    "portfolio/themes/ananke/CHANGELOG.md",
-    "portfolio/content/projects/_index.md"
+    "portfolio/themes/ananke/CHANGELOG.md"
   ]
 }

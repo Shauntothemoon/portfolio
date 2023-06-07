@@ -1,6 +1,6 @@
 name: Projects
 source:
   - icon: fa fa-github
-    name: Project 1
-    description: Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
-    url: my_first_project/
+    name: Should your funnel dashboards look like a funnel?
+    description: A tiny funnel dashboard, with thoughts during the (re)deign of its layout.
+    url: should_your_funnel_dashboards_look_like_a_funnel?/
