@@ -1,5 +1,5 @@
 ---
-title: "Should your funnel dashboards look like a funnel"
+title: "Should your funnel dashboards look like a funnel?"
 date: 2023-06-06T16:32:15+02:00
 draft: false
 layout: "single"
