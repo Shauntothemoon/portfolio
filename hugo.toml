@@ -22,7 +22,7 @@ theme = "hugo-sustain"
 [params.social]
   Github        = "Shauntothemoon"
   Email         = "shaun.out.the.box@gmail.com"
-  LinkedIn      = "https://www.linkedin.com/in/shi-linhaohan/"
+  LinkedIn      = "shi-linhaohan"
   RSS           = "/blog/index.xml"
 
 ## Main Menu
@@ -40,4 +40,4 @@ theme = "hugo-sustain"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "https://www.canva.com/design/DAFlDM-n3u0/kbKFwruX5qck8_PPSnFfrA/view?utm_content=DAFlDM-n3u0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+  url = "https://www.canva.com/design/DAFlKW5Q2Ys/8AevesPBIpzcDCchGLsS2g/view?utm_content=DAFlKW5Q2Ys&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"

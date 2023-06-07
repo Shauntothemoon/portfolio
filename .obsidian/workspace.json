@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "a58e00ed56d028b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d153fb3668ad73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e9ab9107c6a22a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "224d60860281eb08",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca80dfa6d20c23a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a0255f2896afb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3295804d7e26f6e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b61a1c40f944ddad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "765a85321b8b6bf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce8b29b7fd91002e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42b2a0741d9cebd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0076194c7aa22a38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6207a1a41fa0cf2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "322f456e55f3d29a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4e9ab9107c6a22a",
+  "lastOpenFiles": [
+    "Screenshot 2023-06-07 at 22.02.45.png",
+    "content/blog/Case _Study_Inequalities_in_the_predictive_policing_of_LAPD.md",
+    "layouts/_default/_markup/render-link.html",
+    "layouts/_default/_markup",
+    "layouts/_default",
+    "public/js",
+    "static/js/dark_toggle.js",
+    "static/js",
+    "themes/hugo-sustain/assets/css/dark.css",
+    "public/css/dark.css",
+    "layouts/partials/toggle.html",
+    "layouts/partials",
+    "content/_index.md",
+    "content/projects/_index.md",
+    "content/projects/should_your_funnel_dashboards_look_like_a_funnel?.md",
+    "content/blog/how-make-time-work.md",
+    "Pasted image 20220821132805.png.md",
+    "public/img/profile_haohan.png",
+    "portfolio/themes/ananke/static/images/gohugo-default-sample-hero-image.jpg",
+    "portfolio/themes/ananke/layouts/partials/svg/tiktok.svg",
+    "portfolio/themes/ananke/layouts/partials/svg/new-window.svg",
+    "portfolio/themes/ananke/images/tn.png",
+    "portfolio/themes/ananke/images/screenshot.png",
+    "portfolio/themes/ananke/exampleSite/content/fr/post/chapter-1.md",
+    "portfolio/themes/ananke/exampleSite/content/fr/post/_index.md",
+    "portfolio/themes/ananke/exampleSite/content/en/post/chapter-6.md",
+    "portfolio/themes/ananke/exampleSite/content/en/post/chapter-5.md",
+    "portfolio/themes/ananke/exampleSite/content/en/post/chapter-4.md",
+    "portfolio/themes/ananke/exampleSite/content/en/post/chapter-3.md",
+    "portfolio/themes/ananke/exampleSite/content/en/post/chapter-2.md",
+    "portfolio/themes/ananke/exampleSite/content/en/post/chapter-1.md",
+    "portfolio/themes/ananke/exampleSite/content/en/post/_index.md",
+    "portfolio/themes/ananke/exampleSite/content/en/about/index.md",
+    "portfolio/themes/ananke/exampleSite/static/images/notebook.jpg",
+    "portfolio/themes/ananke/exampleSite/static/images/esmeralda.jpg",
+    "portfolio/themes/ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg",
+    "portfolio/themes/ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg",
+    "portfolio/themes/ananke/exampleSite/content/fr/contact.md",
+    "portfolio/themes/ananke/exampleSite/content/fr/_index.md",
+    "portfolio/themes/ananke/exampleSite/content/en/contact.md",
+    "portfolio/themes/ananke/exampleSite/content/en/_index.md",
+    "portfolio/themes/ananke/archetypes/default.md",
+    "portfolio/themes/ananke/README.md",
+    "portfolio/themes/ananke/LICENSE.md",
+    "portfolio/themes/ananke/CHANGELOG.md",
+    "portfolio/content/projects/_index.md"
+  ]
+}
