@@ -8,6 +8,16 @@
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://shauntothemoon.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>R_project</title>
+      <link>https://shauntothemoon.github.io/portfolio/projects/r_project/</link>
+      <pubDate>Sun, 11 Jun 2023 10:46:34 +0200</pubDate>
+      
+      <guid>https://shauntothemoon.github.io/portfolio/projects/r_project/</guid>
+      <description>Test a lot.
+R_project </description>
+    </item>
+    
+    <item>
       <title>Should your funnel dashboards look like a funnel?</title>
       <link>https://shauntothemoon.github.io/portfolio/projects/should_your_funnel_dashboards_look_like_a_funnel/</link>
       <pubDate>Tue, 06 Jun 2023 16:32:15 +0200</pubDate>

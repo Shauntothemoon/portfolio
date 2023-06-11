@@ -6,6 +6,11 @@ source:
     url: should_your_funnel_dashboards_look_like_a_funnel?/
 
   - icon: fa fa-github
-    name: ChatGPT-Assistant-for-Non-Programmers
+    name: ChatGPT Assistant for Non-Programmers
     description: A simple assistant based on the GPT APIs that I made when it just got popularity. The amazing part of it is the preset roles which allow the assistant to perform specific functions.
     url: https://github.com/Shauntothemoon/ChatGPT-Assistant-for-Non-Programmers
+    
+  - icon: fa fa-github
+    name: Bellabeat's Product Analysis
+    description: This case study examines Bellabeat, a manufacturer specializing in health-focused smart devices for women. Utilizing R, the study analyzes consumer data from approximately 30 Fitbit Fitness Tracker users over a month. As Bellabeat's Leaf product operates within a similar niche, insights from this analysis aim to inform and enhance Leaf’s marketing strategies.
+    url: Bellabeat_Project.html
