@@ -6,15 +6,15 @@
     <description>Recent content on Data Decoded</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Jun 2023 10:46:34 +0200</lastBuildDate><atom:link href="https://shauntothemoon.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 21:47:10 +0200</lastBuildDate><atom:link href="https://shauntothemoon.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>R_project</title>
-      <link>https://shauntothemoon.github.io/portfolio/projects/r_project/</link>
-      <pubDate>Sun, 11 Jun 2023 10:46:34 +0200</pubDate>
+      <title>Universal Analytics is sunsetting? The easiest way to back your data without limitations (and it&#39;s free)!</title>
+      <link>https://shauntothemoon.github.io/portfolio/blog/how_to_efficiently_backup_your_universal_analytics_data/</link>
+      <pubDate>Thu, 15 Jun 2023 21:47:10 +0200</pubDate>
       
-      <guid>https://shauntothemoon.github.io/portfolio/projects/r_project/</guid>
-      <description>Test a lot.
-R_project </description>
+      <guid>https://shauntothemoon.github.io/portfolio/blog/how_to_efficiently_backup_your_universal_analytics_data/</guid>
+      <description>As a web analyst, the most important thing recently for my is the sunsetting of Universal Analytics - from July 1, 2023, it will stop processing data (though the data itself will be kept for at least other 6 months , which means all preparations should be done as soon as possible.
+Therefore, I was looking for methods to efficiently backup the Universal Analytics&amp;rsquo; reports for my organization. However, as you may imagine (or you might be even facing the similar problem!</description>
     </item>
     
     <item>
