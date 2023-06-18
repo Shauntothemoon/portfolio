@@ -21,5 +21,5 @@ Let's make things happen!
 
 [projects]: /portfolio/projects/
 [blog]: /portfolio/blog/
-[resume]: https://www.canva.com/design/DAFlXXfiWNM/NZIOIgpmRGQnG6jt64VC3Q/view?utm_content=DAFlXXfiWNM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+[resume]: https://www.canva.com/design/DAFmKCcA6t0/ZS623W35g6NKEcdkaWCe9g/view?utm_content=DAFmKCcA6t0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 [email]: mailto:shaun.out.the.box@gmail.com
